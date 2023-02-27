@@ -1,5 +1,5 @@
 # Glavni naslov
-Testni repozitorij VIVA
+Repozitorij za test
 
 ## Naslov druge razine
 
